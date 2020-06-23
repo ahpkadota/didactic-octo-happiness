@@ -1,0 +1,11 @@
+<html>
+<body>
+<button onClick="doThis()">Press me!</button>
+<a id="1">
+</body>
+<script>
+function doThis() {
+alert("hero ZA WARUDO");
+}
+</script>
+</html>
